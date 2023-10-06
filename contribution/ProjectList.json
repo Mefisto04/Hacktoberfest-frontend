@@ -12,6 +12,19 @@
     "FilePath": "../projects/Example-Project/index.html",
     "Description": "Small And Breif description is needed which explains your project"
   },
+  {
+    "Name": "QR Generator Dapp",
+    "Author": "Mefisto",
+    "tags": [
+      "React",
+      "Css",
+      "js",
+      "Metamask",
+    ],
+    "Github": "https://github.com/Mefisto04",
+    "FilePath": "../projects/QR Generator Dapp/public/index.html",
+    "Description": "It is a QR Generator Dapp which is based on Blockchain Wallet called Metamask and Phantom"
+  },
    {
     "Name": "Drawing Website",
     "Author": "Jatin",
